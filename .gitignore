@@ -1,3 +1,17 @@
-Full Model Prediction Kaggle Mobilenetv2.csv
-preds_array.csv
-*.csv
+# Full Model Prediction Kaggle Mobilenetv2.csv
+# preds_array.csv
+# *.csv
+# env
+env
+
+# DS_Store
+*.DS_Store
+
+# Jupyter checkpoints
+*.ipynb_checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Model files
+*.pkl
+*.joblib
