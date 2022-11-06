@@ -1,0 +1,15 @@
+conda env create --file virtual_environment/env.yml -n deep_learning
+
+python -m ipykernel install --name=deep_learning
+
+----------------------------------------------------------------------
+
+jupyter kernelspec list
+
+jupyter kernelspec uninstall deep_learning
+
+conda activate deep_learning
+
+conda deactivate
+
+conda env remove -n deep_learning
