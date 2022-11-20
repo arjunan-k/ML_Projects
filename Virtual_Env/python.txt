@@ -1,0 +1,10 @@
+conda -V
+conda create -n lunar_lander python=3.7
+conda activate lunar_lander
+pip list
+pip install tensorflow==1.15.0 tensorflow-gpu==1.15.0 stable_baselines gym box2d-py --user
+pip install jupyterlab
+pip install jupyter notebook
+pip  install ipykernel
+ipython kernel install --user --name=lunar_lander
+conda deactivate
