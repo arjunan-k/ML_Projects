@@ -1,5 +1,3 @@
-# --------------------------------------------Setting the selenium webdriver------------------------------ #
-
 from selenium import webdriver
 from selenium.common import NoSuchElementException
 from selenium.webdriver.chrome.service import Service
@@ -77,5 +75,3 @@ for each in all_followers:
         each.click()
     except NoSuchElementException:
         continue
-
-# --------------------------------------------Process finished-------------------------------------------- #
