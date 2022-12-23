@@ -1,2 +1,1 @@
-# Rain_Alert
 Build a SMS alert program with the help of Twilio and Open weather map API. By which we will be notified on daily basis about the climatic condition. The program is made to run automatically in cloud with the help of python Anywhere.
