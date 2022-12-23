@@ -1,1 +1,1 @@
-# [Dog Vision](https://www.kaggle.com/c/dog-breed-identification/overview)
+# [Dog Vision Data](https://www.kaggle.com/c/dog-breed-identification/overview)
