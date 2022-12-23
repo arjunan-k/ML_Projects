@@ -19,12 +19,10 @@ my_label3.grid(column=1, row=1)
 my_label4 = Label(text="Km", font=("Arial", 16, "bold"))
 my_label4.grid(column=2, row=1)
 
-
 def miles_to_km():
     b = float(input1.get())
     a = round(b * 1.609, 2)
     my_label3.config(text=f"{a}")
-
 
 button = Button(text="calculate", command=miles_to_km)
 button.grid(column=1, row=2)
