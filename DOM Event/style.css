@@ -1,0 +1,16 @@
+li {
+  margin: 4px;
+}
+
+button {
+  margin: 4px;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
