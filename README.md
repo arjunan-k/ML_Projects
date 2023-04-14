@@ -1,4 +1,4 @@
-Repo of all my beginner friendly projects in the following field,
+Curated collections of my projects in the following field,
 - Web Development
 - Deep Learning
 - Frontend
